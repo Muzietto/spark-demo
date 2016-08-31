@@ -1,8 +1,8 @@
 #Apache Spark + Cassndra + DataStax Connector + Scala + Java
 ## Small Bootstrap Maven Project to get Kick Started
 ### Planing - What to do
-* []Setup VirtualBox
-  * []Download and Install VBox from Oracle
+* [ ]Setup VirtualBox
+  * [ ]Download and Install VBox from Oracle
   * Download and Install Ubuntu on Virtual Box
 * Install Cassandra in VirtualBox
 * Configure a Cassandra Cluster
@@ -10,7 +10,7 @@
   * Model it into Cassandra
   * Load it into Cassandra
 * Configure Spark to run with DataStax Connector
-* Play around with Spark Shell
+-[ ] Play around with Spark Shell
 * Create a Stand Alone Scala App with the results of Shell Playground
 * Port the Scala App to Java
 * Configure a Master Node Spark
