@@ -1,6 +1,9 @@
 #Apache Spark + Cassndra + DataStax Connector + Scala + Java
 ## Small Bootstrap Maven Project to get Kick Started
 ### Planing - What to do
+* []Setup VirtualBox
+  * []Download and Install VBox from Oracle
+  * Download and Install Ubuntu on Virtual Box
 * Install Cassandra in VirtualBox
 * Configure a Cassandra Cluster
 * Find a Decent Big Data Set freely available
